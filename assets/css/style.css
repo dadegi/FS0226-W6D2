@@ -1,0 +1,11 @@
+.personalBtn {
+	background-color: cadetblue;
+}
+
+.personalBtn:hover {
+	background-color: rebeccapurple;
+}
+
+/* .carouselImg {
+	width: 70%;
+} */
