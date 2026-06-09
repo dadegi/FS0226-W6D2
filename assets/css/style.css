@@ -6,6 +6,6 @@
 	background-color: rebeccapurple;
 }
 
-/* .carouselImg {
-	width: 70%;
-} */
+.accordion-button:hover {
+	color: red !important;
+}
